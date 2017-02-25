@@ -4,6 +4,6 @@ a=10
 b=10
 a+b=20
 c=a+b 
-add new line in the 
+add new line in the code
 c=d
-
+add new line in the code
